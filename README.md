@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gautamroshan4004@gmail.com**
 
-- ⚡ Fun fact **I don't know why I really used "4004" in my gmail, username and portfolio sub-domail.**
+- ⚡ Fun fact **I don't know why I really used "4004" in my gmail, username and portfolio sub-domain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
